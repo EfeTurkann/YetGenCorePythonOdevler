@@ -1,0 +1,2 @@
+Write ile dosya oluşturuyorum.
+ Oluştu.
