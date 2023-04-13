@@ -1,0 +1,13 @@
+Dosyalarla Çalışma
+Birinci Kısım: Dosyaları açma
+r modu : Okuma modu (Dosya yoksa hata verir)
+w modu : Yazma modu (Dosya yoksa oluşturur.)
+r+ modu : Hem okuma hem yazma modu
+a modu : Dosyanın sonuna ekleme modu,
+b modu : binary mode
+Dosyaları Kapatma
+With open yapısı
+İkinci Kısım: Dosyaları okuma
+read()
+readline()
+readlines()
