@@ -1,0 +1,4 @@
+Deneme2
+r+ modunu Denemerum
+m
+Append ile veri ekliyorum.
