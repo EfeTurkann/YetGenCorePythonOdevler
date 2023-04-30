@@ -1,0 +1,12 @@
+kullanici adi Efe Türkan
+kullanıcının yas, kilo, boy bilgisi 20, 80.0,1.87
+kullanıcın vücut kitle indexi 22.9
+değer aralığı normal kilolu
+oluşturma tarihi: Mon May  1 00:48:21 2023
+********************
+kullanici adi Deve Tuncay
+kullanıcının yas, kilo, boy bilgisi 36, 69.0,1.7
+kullanıcın vücut kitle indexi 23.9
+değer aralığı normal kilolu
+oluşturma tarihi: Mon May  1 00:48:45 2023
+********************
