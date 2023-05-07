@@ -1,0 +1,1 @@
+{'14884157132': ['Efe Türkan', 2003, 'Erkek', 'Özel durum yok.']}

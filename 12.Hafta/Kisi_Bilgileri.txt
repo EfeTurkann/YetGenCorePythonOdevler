@@ -1,0 +1,13 @@
+
+Kimlik No: Deneme
+Ad Soyad: Deneme
+Dogum Yili: Deneme
+Cinsiyet: Deneme
+Oncelik Durumu: Deneme
+
+Kimlik No: 14884157132
+Ad Soyad: Efe Turkan
+Dogum Yili: 2003
+Cinsiyet: Erkek
+Oncelik Durumu: Yok
+
