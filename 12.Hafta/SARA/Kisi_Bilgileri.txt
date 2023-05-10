@@ -17,6 +17,3 @@
 11111111142,Masal,Yazmakgüzel,1946,Kadın,Şehit Yakını
 11111111144,Python,Ogrenin,1963,Kadın,Yok
 11111111146,Yaratıcılık,Bitti,1948,Erkek,Engelli
-14884157132,asdsad,dasdsa,1555,erkek,yok
-14884157132,Efe,Türkan,200,Erkek,Yok
-14884157132,Efe,Türkan,2000,erkek,Yok
