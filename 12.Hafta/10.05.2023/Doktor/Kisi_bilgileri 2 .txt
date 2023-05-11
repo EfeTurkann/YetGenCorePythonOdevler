@@ -1,0 +1,19 @@
+11111111110,Yetkin Gençler,2015,Kadın,Randevulu
+11111111112,Kuru Ekmek,2000,Kadın,Yok
+11111111114,Sutlu Cikolata,1995,Erkek,Engelli
+11111111116,Zeytin Peynir,1965,Kadın,Randevulu
+11111111118,Fındık Lahmacun,1988,Kadın,Yok
+11111111120,Eniyimeyve Erik,1974,Erkek,Yok
+11111111122,Samsun Pidesi,2001,Kadın,Yok
+11111111124,Ayvalık Tostu,2005,Kadın,Yok
+11111111126,Karnım Acıktı,2016,Kadın,-7 Yas
+11111111128,Ay Ayayay,1958,Erkek,+65 Yas
+11111111130,Kahve Olmazsaolmaz,1943,Kadın,+65 Yas
+11111111132,Buulkeninhali Neolacak,1923,Kadın,+65 Yas
+11111111134,Liderlerime Selamlar,2003,Erkek,Randevulu
+11111111136,Yetgen Bitmez,1977,Erkek,Yok
+11111111138,Papatyaları Severim,1976,Erkek,Gazi
+11111111140,Ay Izlerim,1997,Erkek,Şehit Yakını
+11111111142,Masal Yazmakgüzel,1946,Kadın,Şehit Yakını
+11111111144,Python Ogrenin,1963,Kadın,Yok
+11111111146,Yaratıcılık Bitti,1948,Erkek,Engelli
